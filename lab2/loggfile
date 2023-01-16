@@ -1,0 +1,66 @@
+Sat Nov 12 20:13:16 2022
+mainfilecpp: recieved 3 arguments in input command
+Sat Nov 12 20:13:16 2022
+file read.cpp: found a commment in input
+Sat Nov 12 20:13:16 2022
+file read.cpp: parsing dimensions of a matrix from input
+Sat Nov 12 20:13:16 2022
+file read.cpp: parsing a matrix row in input
+Sat Nov 12 20:13:16 2022
+file read.cpp: this row had 2 columns
+Sat Nov 12 20:13:16 2022
+file read.cpp: parsing a matrix row in input
+Sat Nov 12 20:13:16 2022
+file read.cpp: this row had 2 columns
+Sat Nov 12 20:13:16 2022
+file read.cpp: input had 1 dimensions
+Sat Nov 12 20:13:16 2022
+file read.cpp: input had 2 rows of matrix
+Sat Nov 12 20:13:16 2022
+file read.cpp: matrix parsing done correctly
+Sat Nov 12 20:13:16 2022
+mainfilecpp: determinant of matrix started 
+Sat Nov 12 20:13:16 2022
+mainfilecpp: determinant of matrix completed
+Sat Nov 12 20:21:45 2022
+mainfilecpp: recieved 3 arguments in input command
+Sat Nov 12 20:21:45 2022
+file read.cpp: found a commment in input
+Sat Nov 12 20:21:45 2022
+file read.cpp: parsing dimensions of a matrix from input
+Sat Nov 12 20:21:45 2022
+file read.cpp: parsing dimensions of a matrix from input
+Sat Nov 12 20:21:45 2022
+file read.cpp: parsing a matrix row in input
+Sat Nov 12 20:21:45 2022
+file read.cpp: this row had 1 columns
+Sat Nov 12 20:21:45 2022
+file read.cpp: parsing a matrix row in input
+Sat Nov 12 20:21:45 2022
+file read.cpp: this row had 1 columns
+Sat Nov 12 20:21:45 2022
+file read.cpp: parsing a matrix row in input
+Sat Nov 12 20:21:45 2022
+file read.cpp: this row had 2 columns
+Sat Nov 12 20:21:45 2022
+file read.cpp: input had 2 dimensions
+Sat Nov 12 20:21:45 2022
+file read.cpp: input had 3 rows of matrix
+Sat Nov 12 20:21:45 2022
+file read.cpp: matrix parsing done correctly
+Sat Nov 12 20:21:45 2022
+mainfilecpp:  add with scalar started 
+Sat Nov 12 20:21:45 2022
+mainfilecpp: add with scalar 3 completed 
+Sat Nov 12 20:21:45 2022
+mainfilecpp:  sub with scalar started 
+Sat Nov 12 20:21:45 2022
+mainfilecpp: sub with scalar 4 completed 
+Sat Nov 12 20:21:45 2022
+mainfilecpp: mul between two matrix started 
+Sat Nov 12 20:21:45 2022
+mainfilecpp: mul between two matrix completed 
+Sat Nov 12 20:21:45 2022
+mainfilecpp: final output written to the stdout
+Sat Nov 12 20:21:45 2022
+ 
