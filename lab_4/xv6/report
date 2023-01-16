@@ -1,0 +1,24 @@
+we will make flexsc scheduler in proc.c 
+in main  in mpmain function we will check cpuid , if cpuid is 0 then we will call flex sc scheduler.this means one cpu is fixed for system calls (core specialization).
+we will add two new system calls flexsc_register , flexsc_wait . which are exception based . we willl assume that all the processes from will explicitly call flexsc_register before doing system call .
+we will make function calls for all the system calls which are prresent in xv6, like for example fork will be flexfork. all these flex function call are not interupt based , they are just normal function calls . the function calls will convert the arguments and the system call number into system call entry and will be written in syscall page which was made in flexsc register .
+
+files that will be edited 
+syscall.h // header file preproccessor directive
+syscall.c give pointer 
+sysproc.c
+usys.s
+user.h
+makefile -- UPROGS add test_get_year also in EXTRA
+defs.h
+proc.c
+proc.h
+vm.c
+main.c // mp
+
+we will use kalloc for allocating syscall pages . 
+
+the flexsc_scheduler will check for entry in syscall page and which ever is in ready state it will call that system call .
+
+we will make test cases that will check if the code is running.
+
